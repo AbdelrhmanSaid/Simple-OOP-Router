@@ -6,4 +6,4 @@ New Features:
 - Get/Post 
 - call_user_func allowed
 
-This is my first repos, Let's pray to help anyone.
+This is my first repo, Let's pray to help anyone.
