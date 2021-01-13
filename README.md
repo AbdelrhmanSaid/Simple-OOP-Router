@@ -7,7 +7,7 @@ Simple OOP Router using PHP 7.4
 You can clone this repo and use it wherever you want
 
 ```bash
-git clone https://github.com/AbdelrhmanSaid/Simple-OOP-Router/core/Router.php
+git clone https://github.com/AbdelrhmanSaid/Simple-OOP-Router/
 ```
 
 ## Usage
