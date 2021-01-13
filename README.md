@@ -10,6 +10,14 @@ You can clone this repo and use it wherever you want
 git clone https://github.com/AbdelrhmanSaid/Simple-OOP-Router/
 ```
 
+
+## Run your Project
+Use this commands to get into your project after cloning it
+```bash
+cd Simple-OOP-Router
+php -S localhost:8080
+```
+
 ## Usage
 At the first, Be Sure that you have Views Folder with your HTML Code.
 
