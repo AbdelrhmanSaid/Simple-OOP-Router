@@ -29,7 +29,7 @@ require __DIR__ . "/Router.php";
 
     Creating a new Router instance
 
-    ($rootPath = null) => If you would like to change your root path, Default is dirname(__DIR)
+    ($rootPath = null) => If you would like to change your root path, Default is dirname(__DIR__)
 
     ($error404 = "errors/_404") => To specify a 404 Page Handler, Default is (_404) in views/errors directory.
 
